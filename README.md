@@ -1,6 +1,5 @@
 
-## ⚡ Technologies
-## :artificial_satellite: 
+## :artificial_satellite: <h2>Technologies</h2>
 ​
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
