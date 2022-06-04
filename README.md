@@ -1,15 +1,4 @@
 
-7
-[![Twitter Follow](https://img.shields.io/twitter/follow/loiane?style=social)](https://twitter.com/loiane)
-8
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/loiane/)
-9
-[![Youtube: loianegroner](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/loianegroner)](http://youtube.com/loianegroner)
-10
-[![Twitch: loianegroner](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/loiane)](https://www.twitch.tv/loiane)
-11
-​
-12
 ## ⚡ Technologies
 13
 ​
@@ -69,24 +58,3 @@ These are some of the technologies and tools that I work with:
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 41
 ![JFrog](https://img.shields.io/badge/-JFrog-41BF47?style=flat-square&logo=jfrog&logoColor=white)
-Nenhum arquivo escolhido
-Attach files by dragging & dropping, selecting or pasting them.
-@gehaimeBarros
-Propose changes
-Commit summary
-Create README.md
-Optional extended description
-Add an optional extended description…
- 
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
